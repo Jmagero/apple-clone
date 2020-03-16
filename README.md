@@ -15,7 +15,7 @@ This project was made to show  basic HTML and CCS skills cloning the main featur
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rawcdn.githack.com/Jmagero/apple-clone/ba44c6ce5a11c55904a869dce9b722839c59b56b/index.html)
 
 
 ## Getting Started
