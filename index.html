@@ -4,51 +4,56 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>apple-clone</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
+    <!-- <link rel="stylesheet" href="styles/reset.css"> -->
+
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
     <main>
         <div class = "main-image">
-            <div class="main-text">
-                <nav>
-                    <button class="apple-icon">
-                        <i class="fa fa-apple" aria-hidden="true"></i>
-                    </button>
-                    <button>
-                        Store
-                    </button>
-                    <button>
-                        Mac
-                    </button>
-                    <button>
-                        iPod
-                    </button>
-                    <button>
-                        iPhone
-                    </button>
-                    <button>
-                        iPad
-                    </button>
-                    <button>
-                        iTunes
-                    </button>
-                    <button>
-                        Support
-                    </button>
-                    <button class ="search-icon">
-                        <i class="fa fa-search" aria-hidden="true"></i>
-                    </button>
-                </nav>
-                <div>
-                    <h1>What will your verse be?</h1>
-                    <h4>Everyone has something to share.See how people are using
-                        <br>iPad in their unique ways to add to the world's story
-                    </h4>
-                    <p>Watch the "Your verse" film and explore the stories</p>
+            <nav>
+                <ul>
+                    <li>
+                        <button class="apple-icon">
+                            <i class="fa fa-apple" aria-hidden="true"></i>
+                        </button>
+                    </li>
+                    <li>
+                        <button>Store</button>
+                    </li>
+                    <li>
+                        <button>Mac</button>
+                    </li>
+                    <li>
+                        <button>iPod</button>
+                    </li>
+                    <li>
+                        <button>iPhone</button>
+                    </li>
+                    <li>
+                        <button>iPad</button>
+                    </li>
+                    <li>
+                        <button>iTunes</button>
+                    </li>
+                    <li>
+                        <button>Support</button>
+                    </li>
+                    <div class="right button">
+                        <i class="fa fa-search custom-user"  aria-hidden="true"></i><input type="search" name="search">
+                    </div>
+                </ul>
+            </nav>
+            <div>
+                <h1>What will your verse be?</h1>
+                <p class="sub-heading">Everyone has something to share.See how people are using
+                    <br>iPad in their unique ways to add to the world's story
+                    <br>
+                    Watch the "Your verse" film and explore the stories
                     <i class="fa fa-play-circle-o" aria-hidden="true"></i>
-                </div>
-            </div> 
+                </p>
+            </div>
         </div>
         <aside>
             <img src="https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s_2x.jpg"  alt="iPhone 5s. Forward thinking.">
@@ -57,8 +62,8 @@
             <img src="https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility_2x.jpg" alt="Supplier Responsibility The latest results of our worldwide efforts.">
         </aside>
     </main>
-    <footer>
-        <div class="footer-links">
+    <footer class="footer">
+        <div class="first-footer">
             <p>
                 Shop the Apple Online Store (1-800-MY-APPLE), visit an <a href="www.apple.com">Apple Retail Store</a> , or find a <a href="www.apple.com">reseller</a>.
             </p>
@@ -73,9 +78,13 @@
                 <img class= "country-icon" src="images/country.png" alt="Choose your country or region">
             </ul>
         </div>
-        <p class="Copyright">
-            Copyright © 2014 Apple Inc. All rights reserved. <a href="www.apple.com">Terms of Use</a> <a href="www.apple.com">Privacy Policy</a>   
-        </p>
+        <div class ="second-footer">
+            <span>
+                Copyright © 2014 Apple Inc. All rights reserved. 
+                <a href="www.apple.com">Terms of Use</a>
+                <a href="www.apple.com">Privacy Policy</a>   
+            </span>
+        </div>
     </footer>
 </body>
 </html>
