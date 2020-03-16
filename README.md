@@ -1,16 +1,17 @@
-# Project Name
+# Apple clone webpage
 
-> One paragraph statement about the project.
+> This project is a clone of apple webpage.
 
-![screenshot](./app_screenshot.png)
+![screenshot]![image](https://user-images.githubusercontent.com/52098394/76801931-aa455c00-67e7-11ea-87a1-0979f1089a51.png)
 
-Additional description about the project and its features.
+This project was made to show  basic HTML and CCS skills cloning the main features of Apple.com main page.
+
+.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html,
+- css,
 
 ## Live Demo
 
@@ -43,21 +44,12 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@jmagero](https://github.com/Jmagero)
+- Twitter: [@MagzCelyn](https://twitter.com/magzcelyn)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
@@ -65,9 +57,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- The Odin Project
+- Team 94 Capricornus Microverse
 
 ## 📝 License
 

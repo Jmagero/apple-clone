@@ -1,7 +1,11 @@
+/* styling the body */
+
 body {
   overflow-x: hidden;
   margin: -20px 0 0 0;
 }
+
+/* start main section start */
 
 main {
   min-width: 800px;
@@ -19,7 +23,6 @@ main {
 nav {
   display: flex;
   justify-content: center;
-  margin-top: 85px;
   width: 100%;
 }
 
@@ -107,6 +110,8 @@ aside img {
   width: 360px;
 }
 
+/* end main section start */
+
 /* start footer start */
 
 footer {
@@ -145,8 +150,8 @@ footer li {
   display: flex;
   justify-content: flex-start;
   font-size: x-small;
-  margin-left: 95px;
-  padding-top: 1.5em;
+  margin-left: 74px;
+  padding-top: 0.2em;
 }
 
 footer a {
@@ -154,3 +159,5 @@ footer a {
   cursor: pointer;
   text-decoration: none;
 }
+
+/* end footer end */
