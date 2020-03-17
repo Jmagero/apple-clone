@@ -7,6 +7,8 @@
   text-decoration: none;
 }
 
+/* start navigation start */
+
 nav {
   display: flex;
   justify-content: center;
@@ -28,6 +30,10 @@ nav a {
   height: 35px;
   padding: 8px 30px;
   text-decoration: none;
+}
+
+.main-image a {
+  color: white;
 }
 
 nav a:hover {
@@ -71,6 +77,8 @@ nav a:hover {
   width: 50px;
 }
 
+/* start main start*/
+
 main {
   margin: auto;
   min-width: 800px;
@@ -83,10 +91,6 @@ main {
   height: 540px;
   text-align: center;
   width: 1200px;
-}
-
-.main-image a {
-  color: white;
 }
 
 h1 {
@@ -105,20 +109,7 @@ h1 {
   text-decoration: underline white;
 }
 
-aside {
-  display: flex;
-  width: 100%;
-}
-
-aside img {
-  height: 200px;
-  padding: 0 1px;
-  width: 320px;
-}
-
-.aside-links :hover {
-  background-color: none;
-}
+/* start section start*/
 
 section {
   display: grid;
@@ -156,6 +147,8 @@ section h6 {
   background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg');
   background-size: cover;
 }
+
+/* start footer start*/
 
 footer {
   color: #6e6e6e;
