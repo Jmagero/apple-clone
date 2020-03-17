@@ -77,7 +77,7 @@ nav a:hover {
   width: 50px;
 }
 
-  /* start main start*/
+/* start main start*/
 
 main {
   margin: auto;
@@ -109,7 +109,7 @@ h1 {
   text-decoration: underline white;
 }
 
-  /* start section start*/
+/* start section start*/
 
 section {
   display: grid;
@@ -148,7 +148,7 @@ section h6 {
   background-size: cover;
 }
 
-  /* start footer start*/
+/* start footer start*/
 
 footer {
   color: #6e6e6e;
