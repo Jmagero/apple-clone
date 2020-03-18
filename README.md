@@ -1,7 +1,7 @@
 # Apple clone webpage
 
 > This project is a clone of apple webpage. 
-![screenshot]![image](https://user-images.githubusercontent.com/52098394/76801931-aa455c00-67e7-11ea-87a1-0979f1089a51.png)
+![screenshot]![image](https://user-images.githubusercontent.com/52098394/76949512-b03b5a00-6919-11ea-862b-24ce98bd8271.png)
 
 This project was made to show  basic HTML and CCS skills cloning the main features of Apple.com main page.
 The essence of the project is to validate the use of background photos and gradients.
@@ -15,7 +15,7 @@ The essence of the project is to validate the use of background photos and gradi
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Jmagero/apple-clone/ba44c6ce5a11c55904a869dce9b722839c59b56b/index.html)
+[Live Demo Link](https://rawcdn.githack.com/Jmagero/apple-clone/5748902321650dd3601f8869fff271d53700a4d8/index.html)
 
 
 ## Authors
