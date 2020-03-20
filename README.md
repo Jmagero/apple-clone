@@ -1,63 +1,34 @@
-# Project Name
+# Apple clone webpage
 
-> One paragraph statement about the project.
+> This project is a clone of apple webpage. 
+![screenshot]![image](https://user-images.githubusercontent.com/52098394/77176366-04d70480-6ad5-11ea-82d8-75eab48696b9.png)
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project was made to show  basic HTML and CCS skills cloning the main features of Apple.com main page.
+The essence of the project is to validate the use of background photos and gradients.
+
+.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- html,
+- css,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Live Demo Link](https://rawcdn.githack.com/Jmagero/apple-clone/ea681b2ddfdaedd4ba81485f34cd5676c0995f8d/index.html)
 
 
 ## Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@jmagero](https://github.com/Jmagero)
+- Twitter: [@MagzCelyn](https://twitter.com/magzcelyn)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
 
 ## Show your support
 
@@ -65,9 +36,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- The Odin Project
+- Team 94 Capricornus Microverse
 
 ## 📝 License
 
