@@ -1,5 +1,3 @@
-  /* styling the body */
-
 * {
   list-style-type: none;
   left: 0;
@@ -8,8 +6,6 @@
   padding: 0;
   text-decoration: none;
 }
-
-  /* start navigation start */
 
 nav {
   display: flex;
@@ -79,8 +75,6 @@ nav a:hover {
   width: 50px;
 }
 
-  /* start main start*/
-
 main {
   margin: 0 auto;
   min-width: 1250px;
@@ -109,8 +103,6 @@ h1 {
 .underline:hover {
   text-decoration: underline white;
 }
-
-  /* start section start*/
 
 section {
   display: grid;
@@ -148,8 +140,6 @@ section h6 {
   background-image: url('https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg');
   background-size: cover;
 }
-
-  /* start footer start*/
 
 footer {
   color: #6e6e6e;
