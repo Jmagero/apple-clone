@@ -8,14 +8,13 @@
 }
 
 nav {
+  background-image: radial-gradient(rgb(41, 39, 39) 70%, rgb(54, 53, 53)30%);
+  border-radius: 5px;
   display: flex;
   justify-content: center;
   position: absolute;
   margin: 80px auto 100px auto;
-  border-radius: 5px;
   width: fit-content;
-  border-color: teal;
-  background-image: radial-gradient(rgb(41, 39, 39) 70%, rgb(54, 53, 53)30%);
 }
 
 nav a {
