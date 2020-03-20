@@ -2,6 +2,8 @@
 
 * {
   list-style-type: none;
+  left: 0;
+  right: 0;
   margin: 0;
   padding: 0;
   text-decoration: none;
@@ -80,9 +82,9 @@ nav a:hover {
 /* start main start*/
 
 main {
-  margin: auto;
-  min-width: 800px;
-  width: 1200px;
+  margin: 0 auto;
+  min-width: 1250px;
+  width: 1250px;
 }
 
 .main-image {
@@ -90,7 +92,7 @@ main {
   color: white;
   height: 540px;
   text-align: center;
-  width: 1200px;
+  /* width: 1200px; */
 }
 
 h1 {
